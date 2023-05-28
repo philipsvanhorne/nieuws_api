@@ -119,7 +119,7 @@ De API heeft de volgende endpoints:
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Nieuwsberichten ophalen voor elke pagine
+- [x] Nieuwsberichten ophalen voor elke pagina
 - [ ] Kalender ophalen
 
 Zie de [open problemen](https://github.com/philipsvanhorne/nieuws_api/issues) voor een volledige lijst met voorgestelde functies (en bekende problemen).
