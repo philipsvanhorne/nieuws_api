@@ -64,7 +64,7 @@
 <!-- OVER HET PROJECT -->
 ## Over het project
 
-[![Product Name Screen Shot][product-screenshot]](https://pvanhorne.nl/leerlingen/nieuws-1)
+[![Product Name Screen Shot][product-screenshot]](https://pvanhorne.nl/leerlingen/overzichten/nieuws-1)
 
 Een simpele scraper voor de nieuwsberichten op de website van het Philips van Horne SG.
 
