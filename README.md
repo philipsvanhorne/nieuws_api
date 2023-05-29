@@ -111,6 +111,7 @@ De API is te gebruiken door iedereen zodra deze draait.
 
 De API heeft de volgende endpoints:
 * `/api/news/:page` - Geeft alle nieuwsberichten terug voor de opgegeven pagina
+* `/api/news/details/:page_id` - Geeft de details van een nieuwsbericht terug
 
 <p align="right">(<a href="#readme-top">terug naar boven</a>)</p>
 
@@ -120,6 +121,7 @@ De API heeft de volgende endpoints:
 ## Roadmap
 
 - [x] Nieuwsberichten ophalen voor elke pagina
+- [x] Nieuwsbericht details ophalen 
 - [ ] Kalender ophalen
 
 Zie de [open problemen](https://github.com/philipsvanhorne/nieuws_api/issues) voor een volledige lijst met voorgestelde functies (en bekende problemen).
