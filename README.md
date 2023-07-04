@@ -66,7 +66,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://pvanhorne.nl/leerlingen/overzichten/nieuws-1)
 
-Een simpele scraper voor de nieuwsberichten op de website van het Philips van Horne SG.
+Een simpele scraper voor de nieuwsberichten en fotoboeken op de website van het Philips van Horne SG.
 
 <p align="right">(<a href="#readme-top">terug naar boven</a>)</p>
 
@@ -112,6 +112,7 @@ De API is te gebruiken door iedereen zodra deze draait.
 De API heeft de volgende endpoints:
 * `/api/news/:page` - Geeft alle nieuwsberichten terug voor de opgegeven pagina
 * `/api/news/details/:page_id` - Geeft de details van een nieuwsbericht terug
+* `/api/photobooks/:year` - Geeft alle fotoboeken en fotos terug voor het opgegeven jaar
 
 <p align="right">(<a href="#readme-top">terug naar boven</a>)</p>
 
@@ -123,6 +124,7 @@ De API heeft de volgende endpoints:
 - [x] Nieuwsberichten ophalen voor elke pagina
 - [x] Nieuwsbericht details ophalen 
 - [ ] Kalender ophalen
+- [x] Fotoboeken ophalen
 
 Zie de [open problemen](https://github.com/philipsvanhorne/nieuws_api/issues) voor een volledige lijst met voorgestelde functies (en bekende problemen).
 
